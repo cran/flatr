@@ -1,0 +1,16 @@
+ed741c0c422f48e3005b63a3976bd1b1 *DESCRIPTION
+33e87f430be5d08f7ef2bf5092467db8 *LICENSE
+a2731bf64f3adcfd38cd1a1695fee9e8 *NAMESPACE
+eddf116befa2f32783faa63154aa0327 *R/data-lung_cancer.R
+defc67905a3c6fa39166458bb086024e *R/flatten_ct.R
+d21ad4c835988026b5120db54a4d75f3 *R/goodness_of_fit.R
+2b8e3f1d54e605d2392771a9825142f6 *R/print_ct_goodness_of_fit.R
+7863f726ae6fbb92455a43917c8eb3a7 *README.md
+006f1d0fa1423036738a587b63be4a77 *data/lung_cancer.RData
+f7ddcd12b235f909010fef084d926862 *man/flatten_ct.Rd
+2689e18410f7d87147c3051a647617ed *man/goodness_of_fit.Rd
+77d6426f533d147d249413772cfbab53 *man/lung_cancer.Rd
+3597567a1889eabf1446a36ab2378d59 *man/print.ct_goodness_of_fit.Rd
+c71caccdaed554fc0dd900d9818d0c3d *tests/testthat.R
+1d4e305b894d3e635da4bc62dcc26b80 *tests/testthat/test-flatten_ct.R
+29fcb7ac6b562443e9408f49bc964514 *tests/testthat/test-goodness_of_fit.R
